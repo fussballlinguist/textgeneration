@@ -5,5 +5,5 @@ As a training corpus, it uses 3627 abstracts of the Open Access Journal PLOS ONE
 
 The algorithm and its output are explained in the publication:
 
-Simon Meier-Vieracker: Uncreative Academic Writing. Sprachtheoretische Überlegungen zu Künstlicher Intelligenz in der akademischen Textproduktion. In Gerhard Schreiber & Kathrin Burghardt (eds.): KI – Text und Geltung. Wie verändern KI-Textgeneratoren wissenschaftliche Diskurse? Berlin/Boston: De Gruyter.
+Simon Meier-Vieracker: Uncreative Academic Writing. Sprachtheoretische Überlegungen zu Künstlicher Intelligenz in der akademischen Textproduktion. In Gerhard Schreiber & Lukas Ohly (eds.): KI – Text und Geltung. Wie verändern KI-Textgeneratoren wissenschaftliche Diskurse? Berlin/Boston: De Gruyter.
  
